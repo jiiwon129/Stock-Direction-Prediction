@@ -99,7 +99,7 @@
 ├── evaluation/
 │   └── metrics.json             # 평가 지표 및 confusion matrix
 └── docs/
-    ├── handoff_verification.json
+    ├── validation_results.json
     └── validation_summary.md    # 코드 정리 전후 및 누출 방지 검증 요약
 ```
 
