@@ -1,0 +1,25 @@
+{
+  "feature_rows_compared": 26100,
+  "feature_dates": 522,
+  "seven_features_and_guard_match_original_and_independent_rebuild": true,
+  "holdout_prediction_parity_rows": 26100,
+  "submission_prediction_parity_rows": 26100,
+  "both_retrained_parameter_sets_match": true,
+  "original_weight_files_byte_identical": true,
+  "future_injection_and_label_guard_dates": [
+    "2024-08-13","2024-11-01","2025-03-07","2025-05-01","2025-09-02",
+    "2025-11-03","2026-03-06","2026-05-29","2026-06-01","2026-09-11"
+  ],
+  "subset_invariance": true,
+  "missing_price_safe": true,
+  "missing_all_history_flat": true,
+  "score": 0.5943179832999338,
+  "retrospective_is_independent_test": false,
+  "source_commit": "6ff9be6bd1eb5b69f9f5e46bd734d2c15662b095",
+  "original_model_source_sha256": "002b09ef4d69cf8f854343f0a06a2f85ca5f75efec66ed384defa6a41f796f9d",
+  "clean_model_source_sha256": "9f52df3b0eb40149ca36344ec6dafc45d6c2574e86a53f06e3d1b6fc5aff7721",
+  "official_check_days": 5,
+  "notebook_executed_code_cells": 5,
+  "portable_verify_all_3650_predictions_passed": true,
+  "isolated_four_file_submission_dates": 2
+}
